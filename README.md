@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on Secret Project(OwO) 
 
-- 🌱 I’m currently learning **JavaScript,ReactJs**
+- 🌱 I’m currently learning **Full Stack Web Dev**
 
-- 💬 Ask me about **UI/UX(Figma)**
+- 💬 Ask me about **Problem Solving(Java)**
 
 - 📫 How to reach me **shivshere.darkside@gmail.com**
 
